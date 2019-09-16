@@ -1,0 +1,5 @@
+Part1
+38 cycles, 25 instructions, 5 RAW, 3 WAR, 8 structural stalls, number of register = 5
+
+Part2
+1663 cycles, 1605 instructions, 250 RAW, 101 structural stalls, 51 branch taken stalls, number of register = 7
